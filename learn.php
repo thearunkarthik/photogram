@@ -156,3 +156,5 @@ print_r(array_pad($arr1, 12, 15));
 
 <hr>
 
+
+Real life example and implementation of Array
